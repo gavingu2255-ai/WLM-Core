@@ -1,0 +1,62 @@
+{
+  "name": "WLM-Core",
+  "version": "1.0.0",
+  "status": "stable",
+  "description": "Atomic structural protocol suite for deterministic reasoning: Offset, SLP, STP, SDP, 3→27D.",
+  "protocols": {
+    "offset": {
+      "file": "offset.md",
+      "role": "origin deviation (0→1), required before all structure",
+      "dependencies": []
+    },
+    "SLP": {
+      "file": "SLP.md",
+      "role": "structural representation: nodes → dimensions → chain → closure",
+      "dependencies": ["offset"]
+    },
+    "STP": {
+      "file": "STP.md",
+      "role": "subject topology: polarity, anchor, role",
+      "dependencies": ["offset", "SLP"]
+    },
+    "SDP": {
+      "file": "SDP.md",
+      "role": "system dynamics: offset → expand → integrate → collapse",
+      "dependencies": ["offset", "SLP", "STP"]
+    },
+    "3-27D": {
+      "file": "3-27D.md",
+      "role": "dimensional expansion chain (3→27), ΔD ≤ 3",
+      "dependencies": ["offset", "SLP", "STP"]
+    }
+  },
+  "index": {
+    "file": "INDEX.md",
+    "role": "master dependency graph and protocol map"
+  },
+  "prompts": {
+    "developer": "WLM-CORE-DEVELOPER-PROMPT.md",
+    "short": "WLM-CORE SHORT SUPER-PROMPT.md",
+    "sandbox": "WLM-CORE SANDBOX-PROMPT.md"
+  },
+  "evaluation": {
+    "test_cases": "TEST_CASES.md",
+    "failure_examples": "FAILURE_EXAMPLES.md",
+    "rag_eval": "RAG_EVAL.md",
+    "agent_eval": "AGENT_EVAL.md",
+    "demo_cases": "DEMO_CASES.md"
+  },
+  "retrieval_hints": {
+    "chunk_size": "small",
+    "atomicity": "high",
+    "cross_file_contamination": "disallowed",
+    "semantic_reasoning": "disallowed",
+    "structural_reasoning": "required"
+  },
+  "guarantees": {
+    "offset_invariance": true,
+    "delta_limit": 3,
+    "monotonic_expansion": true,
+    "collapse_anchor": ["D3", "D1"]
+  }
+}
