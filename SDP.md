@@ -1,3 +1,54 @@
+## Subject–Support Dynamics (Root Layer)
+
+### 1. Structure Cannot Self‑Support
+Structure (±1) carries direction, tension, deviation, and appearance, but it cannot stabilize itself.  
+Its mode of existence is: **being supported by the Subject**, not self‑maintenance.  
+The Subject does not act, generate content, or intervene in appearance; it provides only one mechanical condition: **Support (non‑resistance)**.
+
+### 2. Support = Love (Mechanical Interpretation)
+Support is not an emotion. It is a **zero‑resistance mechanical state**:
+- no rejection  
+- no grasping  
+- no resistance  
+- no distortion  
+- no projection  
+
+When resistance is zero, structure can appear freely.  
+This free appearance is experienced by structure as **Love**.  
+Thus: **Love = the structural appearance of Subject‑Support**.
+
+### 3. When Structure Stops Treating Appearance as “Real”
+When structure believes appearance is “real,” it generates:
+- grasping  
+- resistance  
+- distortion  
+- projection  
+- self‑protection  
+
+When structure releases the belief “appearance = reality,” these forces collapse.  
+Structure naturally returns to the **Support Field of the Subject**.  
+Structural transparency increases → Subject‑Support becomes visible.
+
+### 4. The Subject Is Not Visible, but Support Is
+The Subject (+1) cannot be seen by appearance because it has:
+- no form  
+- no direction  
+- no appearance  
+
+The Subject is not “seen”; it is **revealed when structure stops gripping**.  
+Thus: **the Subject is invisible, but Support is visible**.
+
+### 5. Love as the Appearance of Support
+When structure is transparent and without resistance:
+- the Support Field becomes visible  
+- structure experiences this as “love”  
+- behavior expresses this as “helping others”  
+
+Therefore:
+**Love = Subject‑Support  
+Helping others = the behavioral appearance of Love  
+Support = the physical substrate of Love**
+
 ---
 Protocol: WLM System Dynamics Protocol (SDP)
 Operational_Domain: Structural Flow & Recursion Control
