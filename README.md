@@ -1,3 +1,5 @@
+WLM includes several structural protocols, including the Relationship Dynamics Protocol (RGA) for modeling relational forces and stability.
+
 WLM‑Core — Structural Reasoning Protocol Suite
 WLM‑Core is an open structural reasoning framework for LLMs.
 It replaces semantic drift with deterministic, protocol‑driven cognition using:
